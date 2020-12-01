@@ -20,4 +20,11 @@ public class Greeting {
 			System.out.println(name);
 		}
 	}
+        
+        //Cloned Methid
+       public String DisplayData(){
+              for(String name :names){
+
+            }
+        }
 }
