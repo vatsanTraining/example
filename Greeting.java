@@ -27,4 +27,8 @@ public class Greeting {
 
             }
         }
+       public String greetingByRahul()
+       {
+    	   return "Hello from Rahul";
+       }
 }
