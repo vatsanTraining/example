@@ -12,4 +12,12 @@ public class Greeting {
 		
 		return name + " Welcome to Java Programming";
 	}
+	
+	public String showAllMessages(String ...names) {
+		
+		for(String name : names) {
+			
+			System.out.println(name);
+		}
+	}
 }
