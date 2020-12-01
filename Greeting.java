@@ -27,4 +27,7 @@ public class Greeting {
 
             }
         }
+       public String greetingFromRahul() {
+    	   return "Hello From Rahul"
+       }
 }
